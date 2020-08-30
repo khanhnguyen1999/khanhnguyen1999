@@ -1,14 +1,15 @@
 ### Hi there, I'm Nguyen Phuoc Khanh 👋
 ## I'm a Student and Web Developer!
-- 
-- 🔭 I’m currently working on a VS Code Course][website]!
+- 👨 I'm 21 years old
+- 💻 I’m currently working on a VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to a job[FrontEnd Dev]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
 <br />
+
 ### Connect with me:
+
 <img align="left" alt="https://twitter.com/KhanhNguyen0599" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="https://www.linkedin.com/in/KhanhNguyen0599" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="https://www.instagram.com/1m81.99/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
