@@ -1,6 +1,6 @@
 ### Hi there, I'm Nguyen Phuoc Khanh 👋
 ## I'm a Student and Web Developer!
-- 👨 I'm 21 years old
+- 👨 I'm 22 years old
 - 💻 I’m currently working on a VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to a job[FrontEnd Dev]
