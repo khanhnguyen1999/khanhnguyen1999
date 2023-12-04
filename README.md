@@ -3,8 +3,8 @@
 - 👨 I'm 24 years old
 - 💻 I’m currently working on a VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to a job[FrontEnd Dev]
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to a job[FrontEnd (ReactJs) or BackEnd (NodeJs)]
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
 <br />
 
